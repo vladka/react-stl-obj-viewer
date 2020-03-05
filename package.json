@@ -1,5 +1,5 @@
 {
-  "name": "react-stl-obj-viewer",
+  "name": "react-stl-obj-viewer-fork",
   "version": "1.2.0",
   "description": "React components to view STL and OBJ models.",
   "main": "build/index.js",
@@ -51,7 +51,7 @@
     "three": "^0.100.0",
     "three-addons": "^1.2.0",
     "three-orbit-controls": "^82.1.0",
-    "three-stl-loader": "git+https://github.com/bohdanbirdie/three-stl-loader.git",
+    "three-stl-loader-fork": "^1.0.6",
     "webpack": "^3.6.0"
   }
 }
